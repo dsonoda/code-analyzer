@@ -102,3 +102,8 @@ ENV/
 
 # pycharm
 .idea
+
+# vagrant
+Vagrantfile
+.vagrant
+
